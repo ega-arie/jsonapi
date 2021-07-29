@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "ega@nomail.com",
+      "password": "$2a$10$807WZxZ5NXlnLk6ANJct/O4b5U2ro/E68HDlf4oK/1K.L08aqppJW",
+      "id": 1
+    },
+    {
+      "email": "john.doe@nomail.com",
+      "password": "$2a$10$qTpdYKbX602IE0TLXlpnU./1FmZhbDZslteJzfbtgy7xlmXHxRiLS",
+      "username": "john.doe",
+      "firstname": "John",
+      "lastname": "Doe",
+      "userRole": 1,
+      "id": 2
+    }
+  ]
+}
